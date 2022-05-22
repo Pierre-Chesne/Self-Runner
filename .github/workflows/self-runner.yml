@@ -1,4 +1,4 @@
-name: CI
+name: Test Self Runner
 
 on:
   workflow_dispatch:
